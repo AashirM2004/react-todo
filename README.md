@@ -2,7 +2,7 @@
 ToDoList is a dynamic checklist that allows users to organize their daily tasks effectively. Users have the flexibility to add or remove items from their list at their convenience. This application is developed using the React framework and incorporates various technologies like JSX, CSS, JavaScript ES6, and more. Furthermore, it leverages React-specific functionalities such as Components, Props, and Hooks.
 
 
-# Using the List
+## Using the List
 
 Type the task and click the add button, click the button on the side to delete from the list
 
